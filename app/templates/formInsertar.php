@@ -42,7 +42,6 @@
             $params['grasa']?>" />
         </td>
     </tr>
-    
     </table>
     <input type="submit" value="insertar" name="insertar" />
 </form>
