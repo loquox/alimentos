@@ -14,7 +14,7 @@
         <th>Proteina (g)</th>
         <th>H. de carbono</th>
         <th>Fibra (g)</th>
-        <th></th>
+        <th>d       </th>
     </tr>
 </table>
 
