@@ -16,6 +16,7 @@
         <th>Fibra (g)</th>
         <th>Grasa total (g)</th>
     </tr>
+    
     <tr>
         <td>
            <input type="text" name="energia" value="<?php echo
