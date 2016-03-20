@@ -18,12 +18,8 @@
     </tr>
     <tr>
         <td>
-            <input type="text" name="nombre" value="<?php echo 
-            $params['nombre']?>"/>
-        </td>
-        <td>
-            <input type="text" name="energia" value="<?php echo
-            $params['energia']?>"/>
+           <input type="text" name="energia" value="<?php echo
+            $params['energia']?>" />
         </td>
         <td>
             <input type="text" name="proteina" value="<?php echo
@@ -32,7 +28,7 @@
         <td>
             <input type="text" name="hc" value="<?php echo 
             $params['hc']?> " />
-        </td>
+        </td>    
         <td>
             <input type="text" name="fibra" value="<?php echo
             $params['fibra']?>" />
@@ -42,7 +38,7 @@
             $params['grasa']?>" />
         </td>
     </tr>
-    </table>
+</table>
     <input type="submit" value="insertar" name="insertar" />
 </form>
 
@@ -65,11 +61,9 @@
                 
     
     
-</table>
 
 
 
 
 
 
-</form>
